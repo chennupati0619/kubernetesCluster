@@ -1,0 +1,11 @@
+---
+# default variable file for deploy_kubernetes
+
+# NODE specific variables #
+
+KUBERNETES_MASTER: k8-master
+# EXAMPLE ENTRY 
+# KUBERNETES_MASTER: master.lab.example.com
+
+
+
